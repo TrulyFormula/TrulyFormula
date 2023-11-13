@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @TrulyFormula
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning how to make an anticheat for F1
-- 📫 How to reach me on my discord server
-
-<!---
-TrulyFormula/TrulyFormula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Truly.Asleep
+- 👀 I’m interested in saving F1 league racing from cheaters!
+- 🌱 I’m currently learning many different code lanuages to get it all right!
+- 📫 How to reach me on my discord server (Link coming soon)
