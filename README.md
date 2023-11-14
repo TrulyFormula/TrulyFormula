@@ -2,3 +2,4 @@
 - 👀 I’m interested in saving F1 league racing from cheaters!
 - 🌱 I’m currently learning many different code lanuages to get it all right!
 - 📫 How to reach me on my discord server (Link coming soon)
+- 📫 How to reach me on my discord user page @truly.asleep
