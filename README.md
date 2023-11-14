@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Truly.Asleep
 - 👀 I’m interested in saving F1 league racing from cheaters!
 - 🌱 I’m currently learning many different code lanuages to get it all right!
-- 📫 How to reach me on my discord server (Link coming soon)
-- 📫 How to reach me on my discord user page @truly.asleep
+- 📫 Reach me on my discord server (Link coming soon)
+- 📫 Reach me on my discord user page @truly.asleep
+- 📫 I am working on a truly website and that will be an offial page.
