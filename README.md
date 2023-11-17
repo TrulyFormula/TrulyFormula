@@ -34,7 +34,7 @@
 <h3 align="center">TrulyFormula AntiCheat</h3>
 
   <p align="center">
-    project_description
+    A hero for F1 league racers! Anti Cheat for F1 23
     <br />
     <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
     ·
