@@ -133,7 +133,11 @@ NOTE *Program will take about 1GB of ram but it will self close so lose in reces
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Use this space program to ensure that users are legal (like the FIA)
+
+You cant edit the program to see how it works and most data is stored online in a locked location
+
+Having data stored online means i can update all users at once and keep everything up to date!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -143,10 +147,11 @@ Use this space to show useful examples of how a project can be used. Additional 
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Rollout V2
+  - [ ] Rework discord bot
+- [ ] Automate more
+- [ ] Gui host process
+
 
 See the [open issues](https://github.com/github_username/TrulyFormula/issues) for a full list of proposed features (and known issues).
 
@@ -157,7 +162,7 @@ See the [open issues](https://github.com/github_username/TrulyFormula/issues) fo
 <!-- CONTACT -->
 ## Contact
 
-Discord @ TrulyAsleep
+Discord @ Truly.Asleep
 
 Discord server [LINK](https://discord.gg/UJrDfZSGXH)
 
