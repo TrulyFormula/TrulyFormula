@@ -4,7 +4,6 @@
 
 
 [![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 
 
 
@@ -63,7 +62,7 @@ All i want is for f1 league racing to be a trusted safe place!
 
 Please DM me if you have any question!
 
-<p align="center">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">HOME</a>)</p>
 
 
 <!-- GETTING STARTED -->
@@ -101,7 +100,7 @@ NOTE *Program will take about 1GB of ram. It will self close after sometime to a
 5. This can be sent out to pc users and this will automaatically test users and send the infomation to your discord server!
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">HOME</a>)</p>
 
 
 
@@ -115,7 +114,7 @@ You cant edit the program to see how it works and most data is stored online in 
 Having data stored online means i can update all users at once and keep everything up to date!
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">HOME</a>)</p>
 
 
 
@@ -132,7 +131,7 @@ Having data stored online means i can update all users at once and keep everythi
   - [ ] Add a possible premium features
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">HOME</a>)</p>
 
 
 
@@ -148,7 +147,7 @@ Email me @ Truly.formula@gmail.com
 Website - Under development
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">HOME</a>)</p>
 
 
 
@@ -161,7 +160,7 @@ Website - Under development
 * We collect logs of running processes in V1 but no names are linked to who. 
 * This data is shared to improve the protection of all users.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">HOME</a>)</p>
 
 
 
