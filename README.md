@@ -20,9 +20,6 @@
   <p align="center">
     A hero for F1 league racers! Anti Cheat for F1 23
     <br />
-    <a href="https://github.com/github_username/repo_name/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/github_username/repo_name/issues">Request Feature</a>
   </p>
 </div>
 
