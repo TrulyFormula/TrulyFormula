@@ -18,7 +18,7 @@
 <h3 align="center">TrulyFormula AntiCheat</h3>
 
   <p align="center">
-    A hero for F1 league racers! Anti Cheat for F1 23
+    A hero for F1 league racers! Anti Cheat for F1 23.
     <br />
   </p>
 </div>
@@ -51,7 +51,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-We all know that F1 is filled with cheaters from people adding 2% speed to people adding 200% more speed!
+We all know that F1 is filled with cheaters from people adding 2% speed to people adding 200% more grip taking turn 1 at full speed!
 
 I can't make open lobbies safer but i can make league races safer so that what i set out to do.
 
@@ -63,36 +63,33 @@ All i want is for f1 league racing to be a trusted safe place!
 
 Please DM me if you have any question!
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="center">(<a href="#readme-top">back to top</a>)</p>
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+How to download and install
 
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* Download
-  ```sh
-  Download the lastest file from latest folder!
-  ```
+*   Download the lastest file from latest folder!
+
 ### Installation V1
 
-1. Download V1
+1. Download V1 (apone release)
  
 2. Send to uses that are on pc in your league
    
 3. Get the uses to run the program before starting the race
 
-NOTE *Program will take about 1GB of ram but it will self close so lose in reces.
+NOTE *Program will take about 1GB of ram. It will self close after sometime to allow all ram to be added back to F1.*
 
 4. A code is created to prove that the user has loaded f1 with anyother programs.
 ### Installation V2+
 
-1. Get a key from the discord bot (It will need to be in ur server)
+1. Get a key from the discord bot (It will need to be in ur server *links belows*)
    ```sh
    /get key
    ```
@@ -101,7 +98,7 @@ NOTE *Program will take about 1GB of ram but it will self close so lose in reces
 
 4. Now hit create and it done
 
-5. This can be sent out to pc users and this will automaatically test users and send the infomation to the discord!
+5. This can be sent out to pc users and this will automaatically test users and send the infomation to your discord server!
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -125,13 +122,15 @@ Having data stored online means i can update all users at once and keep everythi
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Rollout V2
+- [ ] Rollout V1
   - [ ] Rework discord bot
-- [ ] Automate more
-- [ ] Gui host process
+- [ ] Rollout V2
+  - [ ] Automate more
+- [ ] Plan for V3
+  - [ ] Gui host process
+  - [ ] Rework discord bot
+  - [ ] Add a possible premium features
 
-
-See the [open issues](https://github.com/TrulyFormula/TrulyFormula/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -157,9 +156,10 @@ Website - Under development
 ## Acknowledgments
 
 * -LOGS-
-* We take logs of the test in V2 but no names are linked
-* DATA
-* We collect NO data that isn't needed. Data that is needed is discord name and HWID
+* We take logs of the test in V1 but no names are linked 
+* -DATA-
+* We collect logs of running processes in V1 but no names are linked to who. 
+* This data is shared to improve the protection of all users.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -172,6 +172,5 @@ Website - Under development
 [stars-shield]: https://img.shields.io/github/stars/TrulyFormula/TrulyFormula.svg?style=for-the-badge
 [stars-url]: https://github.com/TrulyFormula/TrulyFormula/stargazers
 [issues-shield]: https://img.shields.io/github/issues/TrulyFormula/TrulyFormula.svg?style=for-the-badge
-[issues-url]: https://github.com/TrulyFormula/TrulyFormula/issues
 [product-screenshot]: images/screenshot.png
 
