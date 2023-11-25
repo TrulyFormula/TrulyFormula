@@ -12,7 +12,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/TrulyFormula/TrulyFormula">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="175" height="110">
   </a>
 
 <h3 align="center">TrulyFormula AntiCheat</h3>
