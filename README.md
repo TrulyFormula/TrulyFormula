@@ -58,9 +58,9 @@ This works but users running the client. The client scans the pc for any softwar
 
 This is safe to use and NO data from the users pc is collected (#Trust is more important then some crap data)
 
-All i want is for f1 league racing to be a trusted safe place!
+All I want is for F1 league racing to be a trusted and safe place again!
 
-Please DM me if you have any question!
+Please DM me if you have any questions!
 
 <p align="center">(<a href="#readme-top">HOME</a>)</p>
 
@@ -77,13 +77,13 @@ This is an example of how to list things you need to use the software and how to
 
 ### Installation V1
 
-1. Download V1 (apone release)
+1. Download V1 (on release)
  
 2. Send to uses that are on pc in your league
    
 3. Get the uses to run the program before starting the race
 
-NOTE *Program will take about 1GB of ram. It will self close after sometime to allow all ram to be added back to F1.*
+NOTE *Program will take less than 1GB of ram. It will self close after sometime to allow all ram to be added back to F1.*
 
 4. A code is created to prove that the user has loaded f1 with anyother programs.
 ### Installation V2+
