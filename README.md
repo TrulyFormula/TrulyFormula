@@ -30,6 +30,7 @@
   <ol>
     <li>
       <a href="#about-the-project">About The Project</a>
+      <a href="#updates">Latest Update Notes</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
@@ -62,6 +63,27 @@ All I want is for F1 league racing to be a trusted and safe place again!
 
 Please DM me if you have any questions!
 
+
+<p align="center">(<a href="#readme-top">HOME</a>)</p>
+
+<!-- Updates -->
+## Latest Updates
+
+Thank you to all the users that used the beta versions.
+We got some good data on how people tried to bypass it.
+I found out what you the users want and im here to apply it.
+We now are in V1 fully release and i have update how to download.
+Please join the discord server to get more updates.
+
+Thank you and enjoy clean lobbys 
+
+-Side Note-
+
+Yes most anti-virus pick up that its Malware/Ransomware this is due it read active programs and change data points from F1.
+
+I havent found how to fix this and i doubt i will but i keep trying.
+
+
 <p align="center">(<a href="#readme-top">HOME</a>)</p>
 
 
@@ -73,31 +95,22 @@ How to download and install
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
+
 *   Download the lastest file from latest folder!
 
 ### Installation V1
 
-1. Download V1 (on release)
+1. Download V1
  
-2. Send to uses that are on pc in your league
+2. Enter in the necessary data points like webhooks
    
-3. Get the uses to run the program before starting the race
+3. This will output a new file that you will send to users in your league
 
 NOTE *Program will take less than 1GB of ram. It will self close after sometime to allow all ram to be added back to F1.*
 
-4. A code is created to prove that the user has loaded f1 with anyother programs.
 ### Installation V2+
 
-1. Get a key from the discord bot (It will need to be in ur server *links belows*)
-   ```sh
-   /get key
-   ```
-   
-3. Input the infomation that it asks you for like channel ids
-
-4. Now hit create and it done
-
-5. This can be sent out to pc users and this will automaatically test users and send the infomation to your discord server!
+1. Still in planning stage
 
 
 <p align="center">(<a href="#readme-top">HOME</a>)</p>
@@ -107,11 +120,9 @@ NOTE *Program will take less than 1GB of ram. It will self close after sometime 
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space program to ensure that users are legal (like the FIA)
+You cant edit the program or try to decode how it works.
 
-You cant edit the program to see how it works and most data is stored online in a locked location
-
-Having data stored online means i can update all users at once and keep everything up to date!
+This program reads the necessary data from an online sorce so that it can be updated at anytime to keep exploits at a low
 
 
 <p align="center">(<a href="#readme-top">HOME</a>)</p>
@@ -121,13 +132,15 @@ Having data stored online means i can update all users at once and keep everythi
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Rollout V1
+- [x] Rollout V1
   - [ ] Rework discord bot
 - [ ] Rollout V2
   - [ ] Automate more
-- [ ] Plan for V3
   - [ ] Gui host process
+- [ ] Plan for V3
+  - [ ] Gui User
   - [ ] Rework discord bot
+  - [ ] Add Find a league to discord server
   - [ ] Add a possible premium features
 
 
@@ -144,8 +157,6 @@ Discord server [LINK](https://discord.gg/UJrDfZSGXH)
 
 Email me @ Truly.formula@gmail.com
 
-Website - Under development
-
 
 <p align="center">(<a href="#readme-top">HOME</a>)</p>
 
@@ -155,9 +166,11 @@ Website - Under development
 ## Acknowledgments
 
 * -LOGS-
-* We take logs of the test in V1 but no names are linked 
+* We take logs of all the programs that run from each server.
+* These logs make sure that we can protect the league races.
 * -DATA-
-* We collect logs of running processes in V1 but no names are linked to who. 
+* We collect logs of running processes however the league servers only see results of scans.
+* By using this you agree to us that we can see active programs running.
 * This data is shared to improve the protection of all users.
 
 <p align="center">(<a href="#readme-top">HOME</a>)</p>
