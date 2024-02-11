@@ -69,6 +69,16 @@ Please DM me if you have any questions!
 <!-- Updates -->
 ## Latest Updates
 
+Cancelled V1 and V2 due to a MAJOR security issue (Found before anything bad happened)
+
+So now im working on V3 without a discord BOT but it will have discord account linking and a GUI for updates and starting. 
+
+Anti-VIRUS will pick this up still due to its nature.
+
+Thanks again for those testers for giving me live lobbies to test in. Still DONT have to join the discord server! There is nothing there yet
+
+WEB_Notes v1.0.1
+
 Thank you to all the users that used the beta versions.
 We got some good data on how people tried to bypass it.
 I found out what you the users want and im here to apply it.
