@@ -1,190 +1,97 @@
+# TrulyFormula AntiCheat: A Shield for F1 League Racers
 
 <a name="readme-top"></a>
-
-
-
 [![Stargazers][stars-shield]][stars-url]
 
-
-
-<!-- PROJECT LOGO -->
-<br />
 <div align="center">
+  <br />
   <a href="https://github.com/TrulyFormula/TrulyFormula">
-    <img src="images/logo.png" alt="Logo" width="175" height="110">
+    <img src="images/logo.png" alt="TrulyFormula AntiCheat Logo" width="175" height="110">
   </a>
 
-<h3 align="center">TrulyFormula AntiCheat</h3>
+### Empowering Integrity in F1 23 Racing Leagues
 
-  <p align="center">
-    A hero for F1 league racers! Anti Cheat for F1 23.
-    <br />
-  </p>
+The essence of competition lies in fairness. TrulyFormula AntiCheat champions this cause, offering a robust solution against cheating in F1 23 league races. By safeguarding the integrity of online competitions, we bring trust and fairness back to virtual racing circuits.
+
+<br />
 </div>
 
+## Table of Contents
 
+- [About The Project](#about-the-project)
+- [Latest Update Notes](#updates)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation Guide](#installation)
+- [Usage Guidelines](#usage)
+- [Development Roadmap](#roadmap)
+- [Contact Information](#contact)
+- [Acknowledgments](#acknowledgments)
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <a href="#updates">Latest Update Notes</a>
-    </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
-    </li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
-
-
-
-<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-We all know that F1 is filled with cheaters from people adding 2% speed to people adding 200% more grip taking turn 1 at full speed!
+In the high-octane world of F1, the thrill of competition is often marred by the shadow of unfair advantages. From minor speed boosts to drastic grip enhancements, the quest for victory has seen various forms of cheating. While securing open lobbies remains a broader challenge, TrulyFormula AntiCheat is here to make league racing a bastion of trust and fair play.
 
-I can't make open lobbies safer but i can make league races safer so that what i set out to do.
+Our approach involves a lightweight client that monitors for any unauthorized modifications to F1 data, ensuring a clean and fair racing environment without intruding on user privacy. We believe in safeguarding not just the integrity of league races but also the trust and data privacy of every racer.
 
-This works but users running the client. The client scans the pc for any software or running program that can edit f1 data.
+**Your feedback and questions are invaluable. Please don't hesitate to reach out!**
 
-This is safe to use and NO data from the users pc is collected (#Trust is more important then some crap data)
+[(Back to top)](#readme-top)
 
-All I want is for F1 league racing to be a trusted and safe place again!
-
-Please DM me if you have any questions!
-
-
-<p align="center">(<a href="#readme-top">HOME</a>)</p>
-
-<!-- Updates -->
 ## Latest Updates
 
-Cancelled V1 and V2 due to a MAJOR security issue (Found before anything bad happened)
+**Transitioning to V3:** In light of a significant security concern, we have decided to cancel versions V1 and V2. V3 is under development, focusing on enhancing user experience with Discord account linking and a user-friendly GUI for updates and startup. Despite its necessity, the nature of this software means it may still trigger antivirus alerts. We are continuously working to minimize false positives without compromising its effectiveness.
 
-So now im working on V3 without a discord BOT but it will have discord account linking and a GUI for updates and starting. 
+**A heartfelt thank you to our beta testers and community members for their invaluable feedback and support.** 
 
-Anti-VIRUS will pick this up still due to its nature.
+[(Back to top)](#readme-top)
 
-Thanks again for those testers for giving me live lobbies to test in. Still DONT have to join the discord server! There is nothing there yet
-
-WEB_Notes v1.0.1
-
-Thank you to all the users that used the beta versions.
-We got some good data on how people tried to bypass it.
-I found out what you the users want and im here to apply it.
-We now are in V1 fully release and i have update how to download.
-Please join the discord server to get more updates.
-
-Thank you and enjoy clean lobbys 
-
--Side Note-
-
-Yes most anti-virus pick up that its Malware/Ransomware this is due it read active programs and change data points from F1.
-
-I havent found how to fix this and i doubt i will but i keep trying.
-
-
-<p align="center">(<a href="#readme-top">HOME</a>)</p>
-
-
-<!-- GETTING STARTED -->
 ## Getting Started
-
-How to download and install
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+To ensure a smooth setup, start by downloading the latest file from the "latest" folder.
 
-*   Download the lastest file from latest folder!
+### Installation Guide
 
-### Installation V1
+REMOVED for now!
 
-1. Download V1
- 
-2. Enter in the necessary data points like webhooks
-   
-3. This will output a new file that you will send to users in your league
+[(Back to top)](#readme-top)
 
-NOTE *Program will take less than 1GB of ram. It will self close after sometime to allow all ram to be added back to F1.*
+## Usage Guidelines
 
-### Installation V2+
+Modification or reverse engineering of the TrulyFormula AntiCheat program is prohibited. The software operates by referencing online data sources, allowing for real-time updates and the continuous thwarting of new exploits.
 
-1. Still in planning stage
+[(Back to top)](#readme-top)
 
+## Development Roadmap
 
-<p align="center">(<a href="#readme-top">HOME</a>)</p>
+- [x] V1 Rollout: Initial release.
+  - [x] Rework Discord bot integration.
+- [x] Future Versions:
+  - [x] Enhance automation and user experience.
+  - [x] Introduce a GUI for easier interaction.
+- [ ] Full Rework
+  - [ ] Get ready for f1 24
+[(Back to top)](#readme-top)
 
+## Contact Information
 
+- **Discord:** @ Truly.Asleep
+- **Discord Server:** [Join Here](https://discord.gg/UJrDfZSGXH)
+- **Email:** Truly.formula@gmail.com
 
-<!-- USAGE EXAMPLES -->
-## Usage
+[(Back to top)](#readme-top)
 
-You cant edit the program or try to decode how it works.
-
-This program reads the necessary data from an online sorce so that it can be updated at anytime to keep exploits at a low
-
-
-<p align="center">(<a href="#readme-top">HOME</a>)</p>
-
-
-
-<!-- ROADMAP -->
-## Roadmap
-
-- [x] Rollout V1
-  - [ ] Rework discord bot
-- [ ] Rollout V2
-  - [ ] Automate more
-  - [ ] Gui host process
-- [ ] Plan for V3
-  - [ ] Gui User
-  - [ ] Rework discord bot
-  - [ ] Add Find a league to discord server
-  - [ ] Add a possible premium features
-
-
-<p align="center">(<a href="#readme-top">HOME</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Discord @ Truly.Asleep
-
-Discord server [LINK](https://discord.gg/UJrDfZSGXH)
-
-Email me @ Truly.formula@gmail.com
-
-
-<p align="center">(<a href="#readme-top">HOME</a>)</p>
-
-
-
-<!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* -LOGS-
-* We take logs of all the programs that run from each server.
-* These logs make sure that we can protect the league races.
-* -DATA-
-* We collect logs of running processes however the league servers only see results of scans.
-* By using this you agree to us that we can see active programs running.
-* This data is shared to improve the protection of all users.
+- **Data Privacy:** We are committed to privacy and transparency. Logs of running programs are collected for security purposes but are strictly used to enhance the safety of league races. By using TrulyFormula AntiCheat, you consent to this practice, ensuring a safer racing environment for everyone.
 
-<p align="center">(<a href="#readme-top">HOME</a>)</p>
+[(Back to top)](#readme-top)
 
+---
+
+**Note:** Ensure to update the Markdown link references at the bottom of your README.md file to match any changes or new assets.
 
 
 <!-- MARKDOWN LINKS & IMAGES -->
