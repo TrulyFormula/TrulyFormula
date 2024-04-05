@@ -91,8 +91,6 @@ Modification or reverse engineering of the TrulyFormula AntiCheat program is pro
 
 ---
 
-**Note:** Ensure to update the Markdown link references at the bottom of your README.md file to match any changes or new assets.
-
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
