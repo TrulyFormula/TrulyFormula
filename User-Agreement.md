@@ -1,6 +1,6 @@
 # TrulyFormula AntiCheat User Agreement
 
-**Last Updated: 05/04/2024[NOT USA]**
+**Last Updated: 05/04/2024   [NOT USA]**
 
 Welcome to TrulyFormula AntiCheat! This User Agreement ("Agreement") governs your use of the TrulyFormula AntiCheat software ("Software"), provided by TrulyAsleep ("we", "us", or "our"). By downloading, installing, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, you are not authorized to use the Software.
 
