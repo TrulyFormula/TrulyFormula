@@ -1,7 +1,6 @@
 # TrulyFormula: Better Jeff. A local online and offline replacement.
 
 <a name="readme-top"></a>
-[![Stargazers][stars-shield]][stars-url]
 
 <div align="center">
   <br />
