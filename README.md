@@ -13,6 +13,7 @@
 This was an anti cheat for the F1 games that ran from F1 22 - F1 24. In F1 24 EA added there own anti cheat that had the permisions that I did not. So i closed the project to move on to new things. 
 
 Discord - Close
+
 Website - Close
 
 Reason for these closing is a lack of need for them now. This page wasnt updated as the users and teams that needed the Anti-Cheat were in the discord and got updates from there.
