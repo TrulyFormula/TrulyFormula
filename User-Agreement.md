@@ -1,8 +1,8 @@
 # TrulyFormula AntiCheat User Agreement
 
-**Last Updated: 05/04/2024   [NOT USA]**
+**Last Updated:         21/03/2025**
 
-Welcome to TrulyFormula AntiCheat! This User Agreement ("Agreement") governs your use of the TrulyFormula AntiCheat software ("Software"), provided by TrulyAsleep ("we", "us", or "our"). By downloading, installing, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, you are not authorized to use the Software.
+Welcome to TrulyFormula AntiCheat! This User Agreement ("Agreement") governs your use of the TrulyFormula Better_Jeff software ("Software"), provided by TrulyAsleep ("we", "us", or "our"). By downloading, installing, or using the Software, you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, you are not authorized to use the Software.
 
 ### 1. License Grant
 
@@ -48,4 +48,4 @@ This Agreement shall be governed by and construed in accordance with the laws of
 
 If you have any questions about this Agreement, please contact me on discord.
 
-By using the TrulyFormula AntiCheat, you acknowledge that you have read this agreement, understand it, and agree to be bound by its terms and conditions.
+By using the TrulyFormula Software, you acknowledge that you have read this agreement, understand it, and agree to be bound by its terms and conditions.
